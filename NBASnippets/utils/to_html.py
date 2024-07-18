@@ -38,8 +38,6 @@ def save_stats_to_html(player_id, season, directory="html_files"):
 
     # Convert the DataFrame to HTML and save to file
     stats_df.to_html(filepath, index=False)
-
-    # Convert the DataFrame to HTML and save to file
     with open(filepath, 'w') as f:
         f.write('<html>\n<head>\n')
         f.write('<link rel="stylesheet" type="text/css" href="../css/styles.css">\n')
