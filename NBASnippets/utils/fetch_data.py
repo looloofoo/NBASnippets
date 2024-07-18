@@ -29,9 +29,6 @@ def fetch_last_game_stats(player_id, season):
 
     # Get the last game row
     last_game = df.iloc[0]
-
-    # Fetch the player's name
-    player_info = commonplayerinfo.CommonPlayerInfo(player_id=player_id)
    
     # Extract the desired statistics into a dict
     stats = {
