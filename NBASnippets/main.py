@@ -12,10 +12,10 @@ if __name__ == "__main__":
     season = input("Enter the season (e.g., 2023): ")
 
     try:
-        # return hmtl file created in 'to_html' utils
+        # Return hmtl file created in 'to_html' utils
         filepath = save_stats_to_html(player_id, season)
 
-     # Open the generated HTML file in the default web browser
+        # Open the generated HTML file in the default web browser
         webbrowser.open('file://' + os.path.realpath(filepath))
 
     except ValueError as ve:
