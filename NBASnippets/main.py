@@ -1,24 +1,31 @@
 import webbrowser
+import json
 import os
 from utils.to_html import save_stats_to_html
+from utils.fetch_data import update_json_with_last_game_stats
 
 ####################################
 # Main execution block  
 ####################################
 
 if __name__ == "__main__":
-    # User input for player ID and season
-    player_id = int(input("Enter the player ID: "))
-    season = input("Enter the season (e.g., 2023): ")
 
-    try:
-        # Return hmtl file created in 'to_html' utils
-        filepath = save_stats_to_html(player_id, season)
+    json_file = 'json_files/miami_heat_players.json'
+    season = '2023'  # Specify the season here
+    update_json_with_last_game_stats(json_file, season)
 
-        # Open the generated HTML file in the default web browser
-        webbrowser.open('file://' + os.path.realpath(filepath))
+    # Read the updated JSON file
+    with open(json_file, 'r') as f:
+        players_data = json.load(f)
 
-    except ValueError as ve:
-        print(f"Error: {ve}")
-    except Exception as e:
-        print(f"An error occurred: {e}")
+    file_paths = []
+    for player in players_data:
+        player_id = player['id']
+        save_stats_to_html(player_id, season)
+        file_path = save_stats_to_html(player_id, season)
+        file_paths.append(file_path)
+
+    for path in file_paths:
+        print(path)
+        # Open the HTML file in the default web browser
+        webbrowser.open(f'file://{os.path.realpath(path)}')

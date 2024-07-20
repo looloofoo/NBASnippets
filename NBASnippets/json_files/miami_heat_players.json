@@ -1,0 +1,272 @@
+[
+    {
+        "full_name": "Josh Richardson",
+        "id": 1626196,
+        "last_game_stats": {
+            "Minutes Played": 7,
+            "Points": 2,
+            "Assists": 2,
+            "Rebounds": 0,
+            "Blocks": 0,
+            "FGP": "33.30%",
+            "3p.%": "0.00%",
+            "3p. attempts": 2,
+            "+-": -6
+        }
+    },
+    {
+        "full_name": "Terry Rozier",
+        "id": 1626179,
+        "last_game_stats": {
+            "Minutes Played": 22,
+            "Points": 4,
+            "Assists": 4,
+            "Rebounds": 0,
+            "Blocks": 0,
+            "FGP": "28.60%",
+            "3p.%": "0.00%",
+            "3p. attempts": 1,
+            "+-": -3
+        }
+    },
+    {
+        "full_name": "Delon Wright",
+        "id": 1626153,
+        "last_game_stats": {
+            "Minutes Played": 28,
+            "Points": 11,
+            "Assists": 4,
+            "Rebounds": 3,
+            "Blocks": 1,
+            "FGP": "57.10%",
+            "3p.%": "60.00%",
+            "3p. attempts": 5,
+            "+-": 23
+        }
+    },
+    {
+        "full_name": "Nikola Jovic",
+        "id": 1631107,
+        "last_game_stats": {
+            "Minutes Played": 16,
+            "Points": 3,
+            "Assists": 1,
+            "Rebounds": 3,
+            "Blocks": 0,
+            "FGP": "25.00%",
+            "3p.%": "25.00%",
+            "3p. attempts": 4,
+            "+-": -5
+        }
+    },
+    {
+        "full_name": "Jamal Cain",
+        "id": 1631288,
+        "last_game_stats": {
+            "Minutes Played": 2,
+            "Points": 0,
+            "Assists": 0,
+            "Rebounds": 0,
+            "Blocks": 0,
+            "FGP": "0.00%",
+            "3p.%": "0.00%",
+            "3p. attempts": 0,
+            "+-": -8
+        }
+    },
+    {
+        "full_name": "Patty Mills",
+        "id": 201988,
+        "last_game_stats": {
+            "Minutes Played": 8,
+            "Points": 0,
+            "Assists": 1,
+            "Rebounds": 1,
+            "Blocks": 0,
+            "FGP": "0.00%",
+            "3p.%": "0.00%",
+            "3p. attempts": 3,
+            "+-": -15
+        }
+    },
+    {
+        "full_name": "Jaime Jaquez Jr.",
+        "id": 1631170,
+        "last_game_stats": {
+            "Minutes Played": 32,
+            "Points": 18,
+            "Assists": 5,
+            "Rebounds": 4,
+            "Blocks": 2,
+            "FGP": "50.00%",
+            "3p.%": "0.00%",
+            "3p. attempts": 4,
+            "+-": 25
+        }
+    },
+    {
+        "full_name": "Bam Adebayo",
+        "id": 1628389,
+        "last_game_stats": {
+            "Minutes Played": 19,
+            "Points": 17,
+            "Assists": 2,
+            "Rebounds": 6,
+            "Blocks": 1,
+            "FGP": "80.00%",
+            "3p.%": "0.00%",
+            "3p. attempts": 1,
+            "+-": 12
+        }
+    },
+    {
+        "full_name": "Tyler Herro",
+        "id": 1629639,
+        "last_game_stats": {
+            "Minutes Played": 29,
+            "Points": 17,
+            "Assists": 8,
+            "Rebounds": 6,
+            "Blocks": 0,
+            "FGP": "45.50%",
+            "3p.%": "40.00%",
+            "3p. attempts": 5,
+            "+-": 22
+        }
+    },
+    {
+        "full_name": "Alondes Williams",
+        "id": 1631214,
+        "last_game_stats": {
+            "Minutes Played": 2,
+            "Points": 2,
+            "Assists": 0,
+            "Rebounds": 0,
+            "Blocks": 1,
+            "FGP": "50.00%",
+            "3p.%": "0.00%",
+            "3p. attempts": 1,
+            "+-": -8
+        }
+    },
+    {
+        "full_name": "Caleb Martin",
+        "id": 1628997,
+        "last_game_stats": {
+            "Minutes Played": 24,
+            "Points": 12,
+            "Assists": 2,
+            "Rebounds": 5,
+            "Blocks": 1,
+            "FGP": "41.70%",
+            "3p.%": "33.30%",
+            "3p. attempts": 6,
+            "+-": 16
+        }
+    },
+    {
+        "full_name": "Cole Swider",
+        "id": 1631306,
+        "last_game_stats": {
+            "Minutes Played": 2,
+            "Points": 0,
+            "Assists": 0,
+            "Rebounds": 0,
+            "Blocks": 0,
+            "FGP": "0.00%",
+            "3p.%": "0.00%",
+            "3p. attempts": 1,
+            "+-": -8
+        }
+    },
+    {
+        "full_name": "Jimmy Butler",
+        "id": 202710,
+        "last_game_stats": {
+            "Minutes Played": 24,
+            "Points": 15,
+            "Assists": 4,
+            "Rebounds": 5,
+            "Blocks": 0,
+            "FGP": "66.70%",
+            "3p.%": "0.00%",
+            "3p. attempts": 0,
+            "+-": 6
+        }
+    },
+    {
+        "full_name": "Haywood Highsmith",
+        "id": 1629312,
+        "last_game_stats": {
+            "Minutes Played": 24,
+            "Points": 5,
+            "Assists": 1,
+            "Rebounds": 3,
+            "Blocks": 0,
+            "FGP": "40.00%",
+            "3p.%": "25.00%",
+            "3p. attempts": 4,
+            "+-": 12
+        }
+    },
+    {
+        "full_name": "Orlando Robinson",
+        "id": 1631115,
+        "last_game_stats": {
+            "Minutes Played": 2,
+            "Points": 0,
+            "Assists": 0,
+            "Rebounds": 0,
+            "Blocks": 0,
+            "FGP": "0.00%",
+            "3p.%": "0.00%",
+            "3p. attempts": 0,
+            "+-": -8
+        }
+    },
+    {
+        "full_name": "Thomas Bryant",
+        "id": 1628418,
+        "last_game_stats": {
+            "Minutes Played": 23,
+            "Points": 18,
+            "Assists": 1,
+            "Rebounds": 10,
+            "Blocks": 1,
+            "FGP": "80.00%",
+            "3p.%": "0.00%",
+            "3p. attempts": 1,
+            "+-": 12
+        }
+    },
+    {
+        "full_name": "Kevin Love",
+        "id": 201567,
+        "last_game_stats": {
+            "Minutes Played": 3,
+            "Points": 0,
+            "Assists": 0,
+            "Rebounds": 0,
+            "Blocks": 0,
+            "FGP": "0.00%",
+            "3p.%": "0.00%",
+            "3p. attempts": 1,
+            "+-": -1
+        }
+    },
+    {
+        "full_name": "Duncan Robinson",
+        "id": 1629130,
+        "last_game_stats": {
+            "Minutes Played": 12,
+            "Points": 0,
+            "Assists": 0,
+            "Rebounds": 3,
+            "Blocks": 0,
+            "FGP": "0.00%",
+            "3p.%": "0.00%",
+            "3p. attempts": 4,
+            "+-": -7
+        }
+    }
+]
